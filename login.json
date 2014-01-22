@@ -1,0 +1,6 @@
+{
+  "keys": ["authenticity_token", "user_session[login]","user_session[password]"] ,
+  "values": [
+    ["BGeVa0NlELuzcpcAkHMsEhnQnQAK+uWVWm2gIli+aGU=","admin@ams.com", "P@ssw0rd"]
+  ]
+}
